@@ -1,4 +1,4 @@
-### Welcome 👋
+# Welcome 👋
 
 <!--
 **mr-icaro/mr-icaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
