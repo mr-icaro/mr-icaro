@@ -1,6 +1,7 @@
 # Welcome 💻
 
-I'm a Control and Automation Engineer that loves DIY, Astronomy, Iot, Robotics and programming as well!!
+I'm a _Control and Automation Engineer, IBM AI Engineering Professional Certificated, Dev, Maker and Researcher_
+that loves DIY, Astronomy, Iot, Robotics and programming as well!!
 
 I have a lot of experience with Industrial automation.
 
