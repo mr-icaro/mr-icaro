@@ -10,9 +10,10 @@ I have a lot of experience with Industrial automation.
 |-----:|---------------|
 |     1|   C           |
 |     2|   Assembly    |
-|     3|   Python      |
-|     4|   C++         |
-|     5|   VBA       |
+|     3|   C#     |
+|     4|   Python      |
+|     5|   C++         |
+|     6|   VBA       |
 
 
 <h2> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" /> </h2>
