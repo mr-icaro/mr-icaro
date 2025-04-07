@@ -6,7 +6,7 @@ that loves DIY, Astronomy, Iot, Robotics and programming as well!!
 
 I have a lot of experience with Industrial automation.
 
-### My Languages
+### My Knowledges
 | Rank | Languages     |
 |-----:|---------------|
 |     1|   C           |
@@ -15,6 +15,8 @@ I have a lot of experience with Industrial automation.
 |     4|   Python      |
 |     5|   C++         |
 |     6|   VBA       |
+|     7|   SQL       |
+
 
 
 <h2> <img src="https://img.shields.io/badge/My-Statistics-125740?style=for-the-badge" /> </h2>
